@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://n7kjl.net/sitemap.xml

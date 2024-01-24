@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>N7KJL</title>
+    <link href="https://n7kjl.net/feed.xml" rel="self" />
+    <link href="https://n7kjl.net" />
+    <updated>2024-01-23T18:56:14-08:00</updated>
+    <author>
+        <name>Kristopher Large</name>
+    </author>
+    <id>https://n7kjl.net</id>
+
+    <entry>
+        <title>Hello World</title>
+        <author>
+            <name>Kristopher Large</name>
+        </author>
+        <link href="https://n7kjl.net/hello-world/"/>
+        <id>https://n7kjl.net/hello-world/</id>
+
+        <updated>2024-01-23T18:56:14-08:00</updated>
+            <summary>
+                <![CDATA[
+                    This is an initial post to see how they work. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is an initial post to see how they work. </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
