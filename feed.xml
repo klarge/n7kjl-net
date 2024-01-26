@@ -3,12 +3,32 @@
     <title>N7KJL</title>
     <link href="https://n7kjl.net/feed.xml" rel="self" />
     <link href="https://n7kjl.net" />
-    <updated>2024-01-25T18:00:06-08:00</updated>
+    <updated>2024-01-25T18:25:30-08:00</updated>
     <author>
         <name>Kristopher Large</name>
     </author>
     <id>https://n7kjl.net</id>
 
+    <entry>
+        <title>Contact</title>
+        <author>
+            <name>Kristopher Large</name>
+        </author>
+        <link href="https://n7kjl.net/contact/"/>
+        <id>https://n7kjl.net/contact/</id>
+
+        <updated>2024-01-25T18:25:23-08:00</updated>
+            <summary>
+                <![CDATA[
+                    kristopher.large [at] gmail [dot] com
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>kristopher.large [at] gmail [dot] com</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hello World</title>
         <author>
@@ -17,7 +37,7 @@
         <link href="https://n7kjl.net/hello-world/"/>
         <id>https://n7kjl.net/hello-world/</id>
 
-        <updated>2024-01-25T18:00:06-08:00</updated>
+        <updated>2024-01-25T18:25:30-08:00</updated>
             <summary>
                 <![CDATA[
                     This is an initial post to see how they work. 
