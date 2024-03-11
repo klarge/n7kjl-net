@@ -3,12 +3,98 @@
     <title>N7KJL</title>
     <link href="https://n7kjl.net/feed.xml" rel="self" />
     <link href="https://n7kjl.net" />
-    <updated>2024-03-10T18:46:46-07:00</updated>
+    <updated>2024-03-10T19:28:17-07:00</updated>
     <author>
         <name>Kristopher Large</name>
     </author>
     <id>https://n7kjl.net</id>
 
+    <entry>
+        <title>Meshtastic</title>
+        <author>
+            <name>Kristopher Large</name>
+        </author>
+        <link href="https://n7kjl.net/meshtastic/"/>
+        <id>https://n7kjl.net/meshtastic/</id>
+            <category term="radio"/>
+            <category term="projects"/>
+            <category term="meshtastic"/>
+
+        <updated>2024-03-10T19:00:00-07:00</updated>
+            <summary>
+                <![CDATA[
+                    <h2>Introduction</h2>
+<p><a href="https://meshtastic.org/" target="_blank" rel="noopener noreferrer">Meshtastic</a> is an open-source project that facilitates encrypted off-grid text communication between individuals and groups using low-cost radios. </p>
+<p>I've played with it intermittently for a few years but recently have gotten more involved. Thanks to talented devs and a passionate user-base, the community has grown significantly and the project matured.</p>
+<p>I think it's a great way to learn about radio technologies, open-source projects and deploy a fairly inexpensive backup communication system across communities.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Introduction</h2>
+<p><a href="https://meshtastic.org/" target="_blank" rel="noopener noreferrer">Meshtastic</a> is an open-source project that facilitates encrypted off-grid text communication between individuals and groups using low-cost radios. </p>
+<p>I've played with it intermittently for a few years but recently have gotten more involved. Thanks to talented devs and a passionate user-base, the community has grown significantly and the project matured.</p>
+<p>I think it's a great way to learn about radio technologies, open-source projects and deploy a fairly inexpensive backup communication system across communities.</p>
+
+<h2>How Does It Work?</h2>
+<p>Meshtastic is a software project creating firmware that can be installed on off-the-shelf <a href="https://en.wikipedia.org/wiki/LoRa" target="_blank" rel="noopener noreferrer">LoRa </a>radios and apps to interface with the radios. These radios are inexpensive, easily programmed and readily available online. Conveniently, since LoRa is within the <a href="https://en.wikipedia.org/wiki/ISM_radio_band" target="_blank" rel="noopener noreferrer">ISM Bands</a>, no license is required (at least in the US). </p>
+<p>Once the firmware is installed, two radios can communicate with each other using the public channel or private encrypted channels. However, the "Mesh" part of the name is where things get interesting. Each radio also acts as a repeater, relaying messages that it receives (even if it can't decrypt them). These messages typically have a hop limit of three and upon relaying a signal, the radio will decrement the hop counter by one. This allows a distributed group of unaffiliated users to potentially cover a city with a relatively small amount of devices. </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://n7kjl.net/media/posts/4/gallery/Meshtastic-diagram.png" data-size="988x711"><img loading="lazy" src="https://n7kjl.net/media/posts/4/gallery/Meshtastic-diagram-thumbnail.webp" alt="" width="768" height="553"></a></figure>
+</div></div>
+<p>As with everything in radio, the height and quality of your antenna is what primarily dictates range. The LoRa radios transmit with less than 1 watt, however the <a href="https://meshtastic.org/docs/overview/range-tests/" target="_blank" rel="noopener noreferrer">current range record</a> between two Meshtastic devices is 254km! Of course, there are many additional factors that come into play and realistically you can expect a few kilometers. </p>
+<h2>Use Cases</h2>
+<p>As with most open-source projects, people have different reasons for getting involved. The obvious use for Meshtastic is establishing an off-grid communications system between friends/family, <a href="https://en.wikipedia.org/wiki/Community_emergency_response_team" target="_blank" rel="noopener noreferrer">CERT </a>or groups operating in areas without infrastructure. In that capacity it can provide provide redundancy in the event that cell towers or satellites are unavailable. However the project is also an opportunity to learn about radio, 3D modeling/printing, software development, community organization and more. </p>
+<h2>...Speaking of Cases</h2>
+<p>The radios typically don't come with a case of any sort so users often times 3D print their own or buy printed cases from the community. I'm currently using cases I printed designed by <a href="https://www.printables.com/@TonyG/models" target="_blank" rel="noopener noreferrer">TonyG, available on Printables</a> </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="5">
+<figure class="gallery__item"><a href="https://n7kjl.net/media/posts/4/gallery/PXL_20240311_011450847.jpg" data-size="3072x4080"><img loading="lazy" src="https://n7kjl.net/media/posts/4/gallery/PXL_20240311_011450847-thumbnail.webp" alt="RAK19007 in case by TonyG" width="768" height="1020"></a>
+<figcaption>RAK19007 in case by TonyG</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://n7kjl.net/media/posts/4/gallery/PXL_20240217_031057976-2.jpg" data-size="3072x4080"><img loading="lazy" src="https://n7kjl.net/media/posts/4/gallery/PXL_20240217_031057976-2-thumbnail.webp" alt="RAK19007 in case by TonyG" width="768" height="1020"></a>
+<figcaption>RAK19007 in case by TonyG</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://n7kjl.net/media/posts/4/gallery/PXL_20240217_031307706-2.jpg" data-size="3072x4080"><img loading="lazy" src="https://n7kjl.net/media/posts/4/gallery/PXL_20240217_031307706-2-thumbnail.webp" alt="RAK19007 internals" width="768" height="1020"></a>
+<figcaption>RAK19007 internals</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://n7kjl.net/media/posts/4/gallery/PXL_20240217_031318111.jpg" data-size="4080x3072"><img loading="lazy" src="https://n7kjl.net/media/posts/4/gallery/PXL_20240217_031318111-thumbnail.webp" alt="RAK19007 internals" width="768" height="578"></a>
+<figcaption>RAK19007 internals</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://n7kjl.net/media/posts/4/gallery/PXL_20240217_030831925-2.jpg" data-size="4080x3072"><img loading="lazy" src="https://n7kjl.net/media/posts/4/gallery/PXL_20240217_030831925-2-thumbnail.webp" alt="My original T-Beams" width="768" height="578"></a>
+<figcaption>My original T-Beams</figcaption>
+</figure>
+</div></div>
+<figure class="post__image"><img loading="lazy"  src="https://n7kjl.net/media/posts/4/RAK19007-Case-Printing.webp" alt="Printing a case, designed by TonyG (on my trusty, old, cheap, MP Mini Select)" width="1280" height="720" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://n7kjl.net/media/posts/4/responsive/RAK19007-Case-Printing-xs.webp 300w ,https://n7kjl.net/media/posts/4/responsive/RAK19007-Case-Printing-sm.webp 480w ,https://n7kjl.net/media/posts/4/responsive/RAK19007-Case-Printing-md.webp 768w ,https://n7kjl.net/media/posts/4/responsive/RAK19007-Case-Printing-lg.webp 1024w"></figure>
+<h2>Adoption and Community</h2>
+<p>As I mentioned, the community has grown significantly from when I first heard about it three years ago. Here in Portland Oregon there are over 100 active nodes, and there's an ongoing thread in the community's <a href="https://discord.com/invite/ktMAKGBnBs" target="_blank" rel="noopener noreferrer">Discord server</a> specifically for Oregon. </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://n7kjl.net/media/posts/4/gallery/meshtastic-map-2.png" data-size="1092x656"><img loading="lazy" src="https://n7kjl.net/media/posts/4/gallery/meshtastic-map-2-thumbnail.webp" alt="" width="768" height="461"></a></figure>
+</div></div>
+<p>Elsewhere on the Discord server, you'll find global conversations for support, enclosures and development. I've found everyone to be friendly and happy to help users get started or troubleshoot issues.</p>
+<h2>Recommended Hardware</h2>
+<p>There are a lot of radios to choose from, but they mostly break down into two main types as determined by their processor: </p>
+<p>ESP32</p>
+<ul>
+<li><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Cheap and readily available on Amazon</span></li>
+<li><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Tend to consume more power</span></li>
+<li><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Good for situations where they can be plugged in or recharged daily. </span></li>
+</ul>
+<p>nRF52</p>
+<ul>
+<li>In higher demand, so are sometimes out of stock</li>
+<li>Far more power efficient</li>
+<li>Better for solar-powered repeaters or mobile applications</li>
+</ul>
+<p>I'd recommend starting with the <a href="https://store.rokland.com/collections/rakwireless-products/products/rak-wireless-wisblock-meshtastic-starter-kit" target="_blank" rel="noopener noreferrer">Meshtastic Starter kit</a>, which includes a WisBlock Core RAK4631 and RAK19007 baseboard. When buying a radio, pay attention the the <a href="https://www.thethingsnetwork.org/docs/lorawan/frequencies-by-country/" target="_blank" rel="noopener noreferrer">frequency corresponding to your country</a>. In the USA, we're on 915MHz. </p>
+<p><a href="https://store.rokland.com/" target="_blank" rel="noopener noreferrer">Rokland</a> is the official RAK distributer in the USA and has fast ship times however, they can sometimes have low inventory. Alternatively, you can buy from the <a href="https://www.aliexpress.com/store/1101236139?spm=a2g0o.detail.0.0.21de329dyZqNDQ" target="_blank" rel="noopener noreferrer">RAK store on AliExpress</a> though expect longer ship times. </p>
+<p>Regardless of what you pick up, you'll likely want to <a href="https://meshtastic.org/docs/hardware/antennas/" target="_blank" rel="noopener noreferrer">upgrade the antenna</a>.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Missing Astronomy</title>
         <author>
