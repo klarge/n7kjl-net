@@ -3,7 +3,7 @@
     <title>N7KJL</title>
     <link href="https://n7kjl.net/feed.xml" rel="self" />
     <link href="https://n7kjl.net" />
-    <updated>2024-03-10T19:28:17-07:00</updated>
+    <updated>2024-03-10T19:40:29-07:00</updated>
     <author>
         <name>Kristopher Large</name>
     </author>
@@ -23,8 +23,7 @@
         <updated>2024-03-10T19:00:00-07:00</updated>
             <summary>
                 <![CDATA[
-                    <h2>Introduction</h2>
-<p><a href="https://meshtastic.org/" target="_blank" rel="noopener noreferrer">Meshtastic</a> is an open-source project that facilitates encrypted off-grid text communication between individuals and groups using low-cost radios. </p>
+                    <p><a href="https://meshtastic.org/" target="_blank" rel="noopener noreferrer">Meshtastic</a> is an open-source project that facilitates encrypted off-grid text communication between individuals and groups using low-cost radios. </p>
 <p>I've played with it intermittently for a few years but recently have gotten more involved. Thanks to talented devs and a passionate user-base, the community has grown significantly and the project matured.</p>
 <p>I think it's a great way to learn about radio technologies, open-source projects and deploy a fairly inexpensive backup communication system across communities.</p>
 
@@ -32,8 +31,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <h2>Introduction</h2>
-<p><a href="https://meshtastic.org/" target="_blank" rel="noopener noreferrer">Meshtastic</a> is an open-source project that facilitates encrypted off-grid text communication between individuals and groups using low-cost radios. </p>
+                <p><a href="https://meshtastic.org/" target="_blank" rel="noopener noreferrer">Meshtastic</a> is an open-source project that facilitates encrypted off-grid text communication between individuals and groups using low-cost radios. </p>
 <p>I've played with it intermittently for a few years but recently have gotten more involved. Thanks to talented devs and a passionate user-base, the community has grown significantly and the project matured.</p>
 <p>I think it's a great way to learn about radio technologies, open-source projects and deploy a fairly inexpensive backup communication system across communities.</p>
 
@@ -45,7 +43,7 @@
 </div></div>
 <p>As with everything in radio, the height and quality of your antenna is what primarily dictates range. The LoRa radios transmit with less than 1 watt, however the <a href="https://meshtastic.org/docs/overview/range-tests/" target="_blank" rel="noopener noreferrer">current range record</a> between two Meshtastic devices is 254km! Of course, there are many additional factors that come into play and realistically you can expect a few kilometers. </p>
 <h2>Use Cases</h2>
-<p>As with most open-source projects, people have different reasons for getting involved. The obvious use for Meshtastic is establishing an off-grid communications system between friends/family, <a href="https://en.wikipedia.org/wiki/Community_emergency_response_team" target="_blank" rel="noopener noreferrer">CERT </a>or groups operating in areas without infrastructure. In that capacity it can provide provide redundancy in the event that cell towers or satellites are unavailable. However the project is also an opportunity to learn about radio, 3D modeling/printing, software development, community organization and more. </p>
+<p>As with most open-source projects, people have different reasons for getting involved. The obvious use for Meshtastic is establishing an off-grid communications system between friends/family, <a href="https://en.wikipedia.org/wiki/Community_emergency_response_team" target="_blank" rel="noopener noreferrer">CERT</a> or groups operating in areas without infrastructure. In that capacity it can provide provide redundancy in the event that cell towers or satellites are unavailable. However the project is also an opportunity to learn about radio, 3D modeling/printing, software development, community organization and more. </p>
 <h2>...Speaking of Cases</h2>
 <p>The radios typically don't come with a case of any sort so users often times 3D print their own or buy printed cases from the community. I'm currently using cases I printed designed by <a href="https://www.printables.com/@TonyG/models" target="_blank" rel="noopener noreferrer">TonyG, available on Printables</a> </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="5">
@@ -65,7 +63,11 @@
 <figcaption>My original T-Beams</figcaption>
 </figure>
 </div></div>
-<figure class="post__image"><img loading="lazy"  src="https://n7kjl.net/media/posts/4/RAK19007-Case-Printing.webp" alt="Printing a case, designed by TonyG (on my trusty, old, cheap, MP Mini Select)" width="1280" height="720" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://n7kjl.net/media/posts/4/responsive/RAK19007-Case-Printing-xs.webp 300w ,https://n7kjl.net/media/posts/4/responsive/RAK19007-Case-Printing-sm.webp 480w ,https://n7kjl.net/media/posts/4/responsive/RAK19007-Case-Printing-md.webp 768w ,https://n7kjl.net/media/posts/4/responsive/RAK19007-Case-Printing-lg.webp 1024w"></figure>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://n7kjl.net/media/posts/4/gallery/RAK19007-Case-Printing.webp" data-size="1280x720"><img loading="lazy" src="https://n7kjl.net/media/posts/4/gallery/RAK19007-Case-Printing-thumbnail.webp" alt="Printing a case, designed by TonyG (on my trusty, old, cheap, MP Mini Select)" width="768" height="432"></a>
+<figcaption>Printing a case, designed by TonyG (on my trusty, old, cheap, MP Mini Select)</figcaption>
+</figure>
+</div></div>
 <h2>Adoption and Community</h2>
 <p>As I mentioned, the community has grown significantly from when I first heard about it three years ago. Here in Portland Oregon there are over 100 active nodes, and there's an ongoing thread in the community's <a href="https://discord.com/invite/ktMAKGBnBs" target="_blank" rel="noopener noreferrer">Discord server</a> specifically for Oregon. </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
