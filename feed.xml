@@ -3,7 +3,7 @@
     <title>N7KJL</title>
     <link href="https://n7kjl.net/feed.xml" rel="self" />
     <link href="https://n7kjl.net" />
-    <updated>2024-02-25T08:55:05-08:00</updated>
+    <updated>2024-03-10T18:46:46-07:00</updated>
     <author>
         <name>Kristopher Large</name>
     </author>
@@ -18,18 +18,18 @@
         <id>https://n7kjl.net/astrophotography/</id>
             <category term="astronomy"/>
 
-        <updated>2024-02-24T14:58:13-08:00</updated>
+        <updated>2024-02-24T14:18:00-08:00</updated>
             <summary>
                 <![CDATA[
                     <p>Having grown up in Eastern Oregon I took the clear nights and dark skies for granted. Now that I'm nearing a decade of living in Portland, with its clouds and light pollution, I find myself missing the ability to step out the back door and see the universe. </p>
-<p>That got my reminiscing about my beginner-level attempts at astrophotography and had a fun time going through old photos. Here are some of my favorites from EO and a few from recent years.</p>
+<p>That got me reminiscing about my beginner-level attempts at astrophotography and had a fun time going through old photos. Here are some of my favorites from EO and a few from recent years.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Having grown up in Eastern Oregon I took the clear nights and dark skies for granted. Now that I'm nearing a decade of living in Portland, with its clouds and light pollution, I find myself missing the ability to step out the back door and see the universe. </p>
-<p>That got my reminiscing about my beginner-level attempts at astrophotography and had a fun time going through old photos. Here are some of my favorites from EO and a few from recent years.</p>
+<p>That got me reminiscing about my beginner-level attempts at astrophotography and had a fun time going through old photos. Here are some of my favorites from EO and a few from recent years.</p>
 
 <p class="align-center"><strong>Equipment</strong></p>
 <figure class="post__image">                <img  src="https://n7kjl.net/media/posts/15/2012-03-25-15.30.08-2.jpg" alt="Orion SkyQuest XT8 &amp; Canon 70D" width="300" height="225" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://n7kjl.net/media/posts/15/responsive/2012-03-25-15.30.08-2-xs.webp 300w ,https://n7kjl.net/media/posts/15/responsive/2012-03-25-15.30.08-2-sm.webp 480w ,https://n7kjl.net/media/posts/15/responsive/2012-03-25-15.30.08-2-md.webp 768w ,https://n7kjl.net/media/posts/15/responsive/2012-03-25-15.30.08-2-lg.webp 1024w"></figure>     <figure class="post__image"><img loading="lazy"  src="https://n7kjl.net/media/posts/15/AT65EDQ-AtlasMount-2-2.jpg" alt="AT65EDQ and Canon 70D on Atlas mount" width="127" height="225" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://n7kjl.net/media/posts/15/responsive/AT65EDQ-AtlasMount-2-2-xs.webp 300w ,https://n7kjl.net/media/posts/15/responsive/AT65EDQ-AtlasMount-2-2-sm.webp 480w ,https://n7kjl.net/media/posts/15/responsive/AT65EDQ-AtlasMount-2-2-md.webp 768w ,https://n7kjl.net/media/posts/15/responsive/AT65EDQ-AtlasMount-2-2-lg.webp 1024w"></figure>
@@ -129,7 +129,7 @@
         <link href="https://n7kjl.net/flag-of-hermiston/"/>
         <id>https://n7kjl.net/flag-of-hermiston/</id>
 
-        <updated>2024-02-25T08:55:05-08:00</updated>
+        <updated>2024-02-24T14:08:58-08:00</updated>
             <summary>
                 <![CDATA[
                     <p>I was born and raised in a small town in north east Oregon called Hermiston, which among few other things is know for it's watermelons. Though I don't actually believe this town needs a flag of it's own I thought it interesting to give it a try:</p>
@@ -151,7 +151,7 @@
 </div></div>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://n7kjl.net/media/posts/17/Flag-of-Hermiston-simulation.gif" alt="" width="320" height="240"></figure>
 <p class="align-left">Simulated flag made with: https://krikienoid.github.io/fla<a href="https://krikienoid.github.io/flagwaver/" target="_blank" rel="noopener noreferrer"></a>gwaver/</p>
-<p>Additional Color Options:</p>
+<p>Alternative color options:</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://n7kjl.net/media/posts/17/gallery/FlagOfHermiston_MockUp-OffcialColors.png" data-size="5000x3000"><img loading="lazy" src="https://n7kjl.net/media/posts/17/gallery/FlagOfHermiston_MockUp-OffcialColors-thumbnail.webp" alt="" width="768" height="461"></a>
 <figcaption>City Logo Colors: #009f4e, #ffffff, #f15d3f</figcaption>
@@ -174,7 +174,7 @@
         <id>https://n7kjl.net/static-websites/</id>
             <category term="web"/>
 
-        <updated>2024-02-24T12:06:04-08:00</updated>
+        <updated>2024-02-14T19:44:00-08:00</updated>
             <summary>
                 <![CDATA[
                     <p>I was wanting to create a website (this site) but have been out of the web-dev game for a long time. Though I've never done any significant web work, I look back fondly at my early days of learning HTML / JavaScript and how simply anyone could get started. The pages were simple and the dependencies straight forward.</p>
