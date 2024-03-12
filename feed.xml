@@ -3,14 +3,14 @@
     <title>N7KJL</title>
     <link href="https://n7kjl.net/feed.xml" rel="self" />
     <link href="https://n7kjl.net" />
-    <updated>2024-03-10T19:40:29-07:00</updated>
+    <updated>2024-03-11T18:59:33-07:00</updated>
     <author>
         <name>Kristopher Large</name>
     </author>
     <id>https://n7kjl.net</id>
 
     <entry>
-        <title>Meshtastic</title>
+        <title>Introduction to Meshtastic</title>
         <author>
             <name>Kristopher Large</name>
         </author>
@@ -104,6 +104,7 @@
         </author>
         <link href="https://n7kjl.net/astrophotography/"/>
         <id>https://n7kjl.net/astrophotography/</id>
+            <category term="interests"/>
             <category term="astronomy"/>
 
         <updated>2024-02-24T14:18:00-08:00</updated>
@@ -216,6 +217,8 @@
         </author>
         <link href="https://n7kjl.net/flag-of-hermiston/"/>
         <id>https://n7kjl.net/flag-of-hermiston/</id>
+            <category term="interests"/>
+            <category term="design"/>
 
         <updated>2024-02-24T14:08:58-08:00</updated>
             <summary>
@@ -261,6 +264,7 @@
         <link href="https://n7kjl.net/static-websites/"/>
         <id>https://n7kjl.net/static-websites/</id>
             <category term="web"/>
+            <category term="interests"/>
 
         <updated>2024-02-14T19:44:00-08:00</updated>
             <summary>
