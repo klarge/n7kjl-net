@@ -3,7 +3,7 @@
     <title>N7KJL</title>
     <link href="https://n7kjl.net/feed.xml" rel="self" />
     <link href="https://n7kjl.net" />
-    <updated>2024-03-11T18:59:33-07:00</updated>
+    <updated>2024-03-19T15:40:28-04:00</updated>
     <author>
         <name>Kristopher Large</name>
     </author>
@@ -20,7 +20,7 @@
             <category term="projects"/>
             <category term="meshtastic"/>
 
-        <updated>2024-03-10T19:00:00-07:00</updated>
+        <updated>2024-03-10T22:00:00-04:00</updated>
             <summary>
                 <![CDATA[
                     <p><a href="https://meshtastic.org/" target="_blank" rel="noopener noreferrer">Meshtastic</a> is an open-source project that facilitates encrypted off-grid text communication between individuals and groups using low-cost radios. </p>
@@ -88,7 +88,7 @@
 <li>Far more power efficient</li>
 <li>Better for solar-powered repeaters or mobile applications</li>
 </ul>
-<p>I'd recommend starting with the <a href="https://store.rokland.com/collections/rakwireless-products/products/rak-wireless-wisblock-meshtastic-starter-kit" target="_blank" rel="noopener noreferrer">Meshtastic Starter kit</a>, which includes a WisBlock Core RAK4631 and RAK19007 baseboard. When buying a radio, pay attention the the <a href="https://www.thethingsnetwork.org/docs/lorawan/frequencies-by-country/" target="_blank" rel="noopener noreferrer">frequency corresponding to your country</a>. In the USA, we're on 915MHz. </p>
+<p>I'd recommend starting with the <a href="https://store.rokland.com/collections/rakwireless-products/products/rak-wireless-wisblock-meshtastic-starter-kit" target="_blank" rel="noopener noreferrer">Meshtastic Starter kit</a>, which includes a WisBlock Core RAK4631 and RAK19007 baseboard. When buying a radio, pay attention to the <a href="https://www.thethingsnetwork.org/docs/lorawan/frequencies-by-country/" target="_blank" rel="noopener noreferrer">frequency corresponding to your country</a>. In the USA, we're on 915MHz. </p>
 <p><a href="https://store.rokland.com/" target="_blank" rel="noopener noreferrer">Rokland</a> is the official RAK distributer in the USA and has fast ship times however, they can sometimes have low inventory. Alternatively, you can buy from the <a href="https://www.aliexpress.com/store/1101236139?spm=a2g0o.detail.0.0.21de329dyZqNDQ" target="_blank" rel="noopener noreferrer">RAK store on AliExpress</a> though expect longer ship times. </p>
 <p>Regardless of what you pick up, you'll likely want to <a href="https://meshtastic.org/docs/hardware/antennas/" target="_blank" rel="noopener noreferrer">upgrade the antenna</a>.</p>
 <p> </p>
@@ -107,7 +107,7 @@
             <category term="interests"/>
             <category term="astronomy"/>
 
-        <updated>2024-02-24T14:18:00-08:00</updated>
+        <updated>2024-02-24T17:18:00-05:00</updated>
             <summary>
                 <![CDATA[
                     <p>Having grown up in Eastern Oregon I took the clear nights and dark skies for granted. Now that I'm nearing a decade of living in Portland, with its clouds and light pollution, I find myself missing the ability to step out the back door and see the universe. </p>
@@ -220,7 +220,7 @@
             <category term="interests"/>
             <category term="design"/>
 
-        <updated>2024-02-24T14:08:58-08:00</updated>
+        <updated>2024-02-24T17:08:58-05:00</updated>
             <summary>
                 <![CDATA[
                     <p>I was born and raised in a small town in north east Oregon called Hermiston, which among few other things is know for it's watermelons. Though I don't actually believe this town needs a flag of it's own I thought it interesting to give it a try:</p>
@@ -266,7 +266,7 @@
             <category term="web"/>
             <category term="interests"/>
 
-        <updated>2024-02-14T19:44:00-08:00</updated>
+        <updated>2024-02-14T22:44:00-05:00</updated>
             <summary>
                 <![CDATA[
                     <p>I was wanting to create a website (this site) but have been out of the web-dev game for a long time. Though I've never done any significant web work, I look back fondly at my early days of learning HTML / JavaScript and how simply anyone could get started. The pages were simple and the dependencies straight forward.</p>
