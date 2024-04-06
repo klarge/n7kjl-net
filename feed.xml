@@ -3,12 +3,70 @@
     <title>N7KJL</title>
     <link href="https://n7kjl.net/feed.xml" rel="self" />
     <link href="https://n7kjl.net" />
-    <updated>2024-03-19T15:40:28-04:00</updated>
+    <updated>2024-04-06T09:27:45-07:00</updated>
     <author>
         <name>Kristopher Large</name>
     </author>
     <id>https://n7kjl.net</id>
 
+    <entry>
+        <title>Cleaning Watch Crystal Interior</title>
+        <author>
+            <name>Kristopher Large</name>
+        </author>
+        <link href="https://n7kjl.net/cleaning-watch-face/"/>
+        <id>https://n7kjl.net/cleaning-watch-face/</id>
+            <category term="watches"/>
+            <category term="interests"/>
+
+        <updated>2024-03-11T19:26:56-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Out of my various watches, more often than not I end up wearing my Seiko SKX007. However I recently noticed a speck of dust on&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Out of my various watches, more often than not I end up wearing my Seiko SKX007. However I recently noticed a speck of dust on the inside of the Hardlex crystal, just above the 2 index. I suspect it worked it's way in there the last time fiddled with the 7S26C movement.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://n7kjl.net/media/posts/23/gallery/skx007-speck.png" data-size="701x706"><img loading="lazy" src="https://n7kjl.net/media/posts/23/gallery/skx007-speck-thumbnail.webp" alt="" width="701" height="706"></a></figure>
+</div></div>
+<p>I'm an absolute amateur when it comes to working on watches, so none of this should be taken as a tutorial, but it's always fun taking things apart...and try to put them back together again. </p>
+<p>Plan of attack:</p>
+<ol>
+<li>Remove bracelet</li>
+<li>Remove case back</li>
+<li>Remove crown</li>
+<li>Remove movement</li>
+<li>Dust off the crystal with compressed air</li>
+<li>Reassemble </li>
+</ol>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://n7kjl.net/media/posts/23/gallery/PXL_20240331_201558235-Copy.jpg" data-size="1080x1080"><img loading="lazy" src="https://n7kjl.net/media/posts/23/gallery/PXL_20240331_201558235-Copy-thumbnail.webp" alt="Remove bracelet" width="768" height="768"></a>
+<figcaption>Remove bracelet</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://n7kjl.net/media/posts/23/gallery/PXL_20240403_035518535-Copy.jpg" data-size="1080x1080"><img loading="lazy" src="https://n7kjl.net/media/posts/23/gallery/PXL_20240403_035518535-Copy-thumbnail.webp" alt="Remove case back" width="768" height="768"></a>
+<figcaption>Remove case back</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://n7kjl.net/media/posts/23/gallery/PXL_20240403_035616864-Copy.jpg" data-size="1080x1080"><img loading="lazy" src="https://n7kjl.net/media/posts/23/gallery/PXL_20240403_035616864-Copy-thumbnail.webp" alt="Remove case back...needs a thorough cleaning" width="768" height="768"></a>
+<figcaption>Remove case back...needs a thorough cleaning</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://n7kjl.net/media/posts/23/gallery/PXL_20240403_035756257-Copy.jpg" data-size="1080x1080"><img loading="lazy" src="https://n7kjl.net/media/posts/23/gallery/PXL_20240403_035756257-Copy-thumbnail.webp" alt="Press down on this lever to remove the crown" width="768" height="768"></a>
+<figcaption>Press down on this lever to remove the crown</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://n7kjl.net/media/posts/23/gallery/PXL_20240403_035912784-Copy.jpg" data-size="1080x1080"><img loading="lazy" src="https://n7kjl.net/media/posts/23/gallery/PXL_20240403_035912784-Copy-thumbnail.webp" alt="Carefully remove the movement" width="768" height="768"></a>
+<figcaption>Carefully remove the movement</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://n7kjl.net/media/posts/23/gallery/PXL_20240403_040114169-Copy.jpg" data-size="1080x1080"><img loading="lazy" src="https://n7kjl.net/media/posts/23/gallery/PXL_20240403_040114169-Copy-thumbnail.webp" alt="Dust the crystal with compressed air" width="768" height="768"></a>
+<figcaption>Dust the crystal with compressed air</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://n7kjl.net/media/posts/23/gallery/PXL_20240403_041745679-Copy.jpg" data-size="1080x1080"><img loading="lazy" src="https://n7kjl.net/media/posts/23/gallery/PXL_20240403_041745679-Copy-thumbnail.webp" alt="Reassemble" width="768" height="768"></a>
+<figcaption>Reassemble</figcaption>
+</figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Introduction to Meshtastic</title>
         <author>
@@ -20,7 +78,7 @@
             <category term="projects"/>
             <category term="meshtastic"/>
 
-        <updated>2024-03-10T22:00:00-04:00</updated>
+        <updated>2024-03-10T19:00:00-07:00</updated>
             <summary>
                 <![CDATA[
                     <p><a href="https://meshtastic.org/" target="_blank" rel="noopener noreferrer">Meshtastic</a> is an open-source project that facilitates encrypted off-grid text communication between individuals and groups using low-cost radios. </p>
@@ -107,7 +165,7 @@
             <category term="interests"/>
             <category term="astronomy"/>
 
-        <updated>2024-02-24T17:18:00-05:00</updated>
+        <updated>2024-02-24T14:18:00-08:00</updated>
             <summary>
                 <![CDATA[
                     <p>Having grown up in Eastern Oregon I took the clear nights and dark skies for granted. Now that I'm nearing a decade of living in Portland, with its clouds and light pollution, I find myself missing the ability to step out the back door and see the universe. </p>
@@ -220,7 +278,7 @@
             <category term="interests"/>
             <category term="design"/>
 
-        <updated>2024-02-24T17:08:58-05:00</updated>
+        <updated>2024-02-24T14:08:58-08:00</updated>
             <summary>
                 <![CDATA[
                     <p>I was born and raised in a small town in north east Oregon called Hermiston, which among few other things is know for it's watermelons. Though I don't actually believe this town needs a flag of it's own I thought it interesting to give it a try:</p>
@@ -266,7 +324,7 @@
             <category term="web"/>
             <category term="interests"/>
 
-        <updated>2024-02-14T22:44:00-05:00</updated>
+        <updated>2024-02-14T19:44:00-08:00</updated>
             <summary>
                 <![CDATA[
                     <p>I was wanting to create a website (this site) but have been out of the web-dev game for a long time. Though I've never done any significant web work, I look back fondly at my early days of learning HTML / JavaScript and how simply anyone could get started. The pages were simple and the dependencies straight forward.</p>
