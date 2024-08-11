@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://n7kjl.net/gaming-on-linux/",
+            "url": "https://n7kjl.net/gaming-on-linux/",
+            "title": "Gaming on Linux 2024",
+            "summary": "<p>For years I've dual-booted Windows and some form of Linux, relying on Microsoft for gaming, but I'm pleased to say things are finally at a point where I can fully commit. With all of the work Valve has done to Steam and Proton, most games from my library are easy to install and perform well. Additionally, Valve's use of Proton on the Steam Deck seems to provide enough motivation for them to continue maintaining it. </p>\n<p>The last two titles I wanted to ensure ran properly were Flight Simulator and Age of Empires IV (ironically, both Microsoft games):</p>\n",
+            "content_html": "<p>For years I've dual-booted Windows and some form of Linux, relying on Microsoft for gaming, but I'm pleased to say things are finally at a point where I can fully commit. With all of the work Valve has done to Steam and Proton, most games from my library are easy to install and perform well. Additionally, Valve's use of Proton on the Steam Deck seems to provide enough motivation for them to continue maintaining it. </p>\n<p>The last two titles I wanted to ensure ran properly were Flight Simulator and Age of Empires IV (ironically, both Microsoft games):</p>\n\n<h3>AoE IV</h3>\n<p>Install was simple and game launched successfully. I did run into a few issues described below, but is otherwise running smoothly. </p>\n<p><a href=\"https://www.protondb.com/app/1466860\" target=\"_blank\" rel=\"noopener noreferrer\">ProtonDB article for AoE IV</a></p>\n<ul>\n<li>Mouse cursor didn't line up with what was selected \n<ul>\n<li>Resolved by changing to Full Screen mode</li>\n</ul>\n</li>\n<li>There's a warning that my GPU may not be able to handle high settings\n<ul>\n<li>My RTX3090 is otherwise being detected, used and performing, so just ignore it</li>\n</ul>\n</li>\n<li>Changing resolution worked in menus, but games looked to be low resolution\n<ul>\n<li>Had to change the \"Game Resolution Scale\" slider from 50% to 100%</li>\n</ul>\n</li>\n<li>Didn't use any custom Launch Options</li>\n</ul>\n<h3>MS Flight Simulator</h3>\n<p><a href=\"https://www.protondb.com/app/1250410\" target=\"_blank\" rel=\"noopener noreferrer\">ProtonDB article for Flight Simulator</a></p>\n<ul>\n<li>Simple install, ran and performed well</li>\n<li>Logitech joystick was automatically detected and worked as expected</li>\n<li>Didn't use any custom Launch Options</li>\n</ul>\n<p> </p>",
+            "author": {
+                "name": "Kristopher Large"
+            },
+            "tags": [
+                   "technology",
+                   "interests"
+            ],
+            "date_published": "2024-08-11T07:25:52-07:00",
+            "date_modified": "2024-08-11T12:57:57-07:00"
+        },
+        {
             "id": "https://n7kjl.net/half-globe-with-meridians/",
             "url": "https://n7kjl.net/half-globe-with-meridians/",
             "title": "Half-Globe with Meridians",

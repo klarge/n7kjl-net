@@ -3,12 +3,67 @@
     <title>N7KJL</title>
     <link href="https://n7kjl.net/feed.xml" rel="self" />
     <link href="https://n7kjl.net" />
-    <updated>2024-06-15T20:43:33-07:00</updated>
+    <updated>2024-08-11T12:57:57-07:00</updated>
     <author>
         <name>Kristopher Large</name>
     </author>
     <id>https://n7kjl.net</id>
 
+    <entry>
+        <title>Gaming on Linux 2024</title>
+        <author>
+            <name>Kristopher Large</name>
+        </author>
+        <link href="https://n7kjl.net/gaming-on-linux/"/>
+        <id>https://n7kjl.net/gaming-on-linux/</id>
+            <category term="technology"/>
+            <category term="interests"/>
+
+        <updated>2024-08-11T07:25:52-07:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>For years I've dual-booted Windows and some form of Linux, relying on Microsoft for gaming, but I'm pleased to say things are finally at a point where I can fully commit. With all of the work Valve has done to Steam and Proton, most games from my library are easy to install and perform well. Additionally, Valve's use of Proton on the Steam Deck seems to provide enough motivation for them to continue maintaining it. </p>
+<p>The last two titles I wanted to ensure ran properly were Flight Simulator and Age of Empires IV (ironically, both Microsoft games):</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>For years I've dual-booted Windows and some form of Linux, relying on Microsoft for gaming, but I'm pleased to say things are finally at a point where I can fully commit. With all of the work Valve has done to Steam and Proton, most games from my library are easy to install and perform well. Additionally, Valve's use of Proton on the Steam Deck seems to provide enough motivation for them to continue maintaining it. </p>
+<p>The last two titles I wanted to ensure ran properly were Flight Simulator and Age of Empires IV (ironically, both Microsoft games):</p>
+
+<h3>AoE IV</h3>
+<p>Install was simple and game launched successfully. I did run into a few issues described below, but is otherwise running smoothly. </p>
+<p><a href="https://www.protondb.com/app/1466860" target="_blank" rel="noopener noreferrer">ProtonDB article for AoE IV</a></p>
+<ul>
+<li>Mouse cursor didn't line up with what was selected 
+<ul>
+<li>Resolved by changing to Full Screen mode</li>
+</ul>
+</li>
+<li>There's a warning that my GPU may not be able to handle high settings
+<ul>
+<li>My RTX3090 is otherwise being detected, used and performing, so just ignore it</li>
+</ul>
+</li>
+<li>Changing resolution worked in menus, but games looked to be low resolution
+<ul>
+<li>Had to change the "Game Resolution Scale" slider from 50% to 100%</li>
+</ul>
+</li>
+<li>Didn't use any custom Launch Options</li>
+</ul>
+<h3>MS Flight Simulator</h3>
+<p><a href="https://www.protondb.com/app/1250410" target="_blank" rel="noopener noreferrer">ProtonDB article for Flight Simulator</a></p>
+<ul>
+<li>Simple install, ran and performed well</li>
+<li>Logitech joystick was automatically detected and worked as expected</li>
+<li>Didn't use any custom Launch Options</li>
+</ul>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Half-Globe with Meridians</title>
         <author>
