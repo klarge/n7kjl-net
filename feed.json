@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://n7kjl.net/batch-rename-on-linux-mint/",
+            "url": "https://n7kjl.net/batch-rename-on-linux-mint/",
+            "title": "Batch Rename on Linux Mint",
+            "summary": "I recently discovered an easy-to-overlook feature of Linux Mint, which facilitates batch file/directory renaming. Highlight the files / directories you would like to rename: Right&hellip;",
+            "content_html": "<p>I recently discovered an easy-to-overlook feature of Linux Mint, which facilitates batch file/directory renaming. </p>\n<ol>\n<li>Highlight the files / directories you would like to rename:<br><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://n7kjl.net/media/posts/36/rename-1.jpg\" alt=\"\" width=\"593\" height=\"263\" sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://n7kjl.net/media/posts/36/responsive/rename-1-xs.webp 300w ,https://n7kjl.net/media/posts/36/responsive/rename-1-sm.webp 480w ,https://n7kjl.net/media/posts/36/responsive/rename-1-md.webp 768w ,https://n7kjl.net/media/posts/36/responsive/rename-1-lg.webp 1024w\"></figure></li>\n<li>Right click and select \"Rename\":<br><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://n7kjl.net/media/posts/36/rename-2.jpg\" alt=\"\" width=\"593\" height=\"373\" sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://n7kjl.net/media/posts/36/responsive/rename-2-xs.webp 300w ,https://n7kjl.net/media/posts/36/responsive/rename-2-sm.webp 480w ,https://n7kjl.net/media/posts/36/responsive/rename-2-md.webp 768w ,https://n7kjl.net/media/posts/36/responsive/rename-2-lg.webp 1024w\"></figure></li>\n<li>Set filters / changes (here I'm removing the last 6 digits of the name):<br><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://n7kjl.net/media/posts/36/rename-3.jpg\" alt=\"\" width=\"592\" height=\"443\" sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://n7kjl.net/media/posts/36/responsive/rename-3-xs.webp 300w ,https://n7kjl.net/media/posts/36/responsive/rename-3-sm.webp 480w ,https://n7kjl.net/media/posts/36/responsive/rename-3-md.webp 768w ,https://n7kjl.net/media/posts/36/responsive/rename-3-lg.webp 1024w\"></figure></li>\n<li>Profit:<br><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://n7kjl.net/media/posts/36/rename-4.jpg\" alt=\"\" width=\"593\" height=\"246\" sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://n7kjl.net/media/posts/36/responsive/rename-4-xs.webp 300w ,https://n7kjl.net/media/posts/36/responsive/rename-4-sm.webp 480w ,https://n7kjl.net/media/posts/36/responsive/rename-4-md.webp 768w ,https://n7kjl.net/media/posts/36/responsive/rename-4-lg.webp 1024w\"></figure></li>\n</ol>",
+            "author": {
+                "name": "Kristopher Large"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-09-07T16:26:15-07:00",
+            "date_modified": "2024-09-07T16:26:15-07:00"
+        },
+        {
             "id": "https://n7kjl.net/gaming-on-linux/",
             "url": "https://n7kjl.net/gaming-on-linux/",
             "title": "Gaming on Linux 2024",
