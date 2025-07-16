@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://n7kjl.net/gardenio/",
+            "url": "https://n7kjl.net/gardenio/",
+            "title": "GardenIO",
+            "summary": "GardenIO: A Casual Garden Management Platform Announcing the release of GardenIO, a partially thought through web and mobile application designed to help gardeners track their&hellip;",
+            "content_html": "<h3>GardenIO: A Casual Garden Management Platform</h3>\n<p>Announcing the release of GardenIO, a partially thought through web and mobile application designed to help gardeners track their plants, manage plantings, and optimize their garden planning. It's not feature complete or even fully validated...but feel free to play with it.</p>\n<h3>Key Features</h3>\n<p><strong>Plant Library Management: </strong>Build and maintain a comprehensive database of plant varieties with detailed growing information, images, and seasonal planting guides.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://n7kjl.net/media/posts/45//gallery/Screenshot-from-2025-07-15-21-25-52.png\" data-size=\"1123x796\"><img loading=\"lazy\" src=\"https://n7kjl.net/media/posts/45//gallery/Screenshot-from-2025-07-15-21-25-52-thumbnail.webp\" alt=\"\" width=\"768\" height=\"544\"></a></figure>\n</div></div>\n<p><strong>Planting Tracking: </strong>Record and monitor individual plantings with location-based organization, growth stage tracking, and harvest recording.<br><br><strong>Multi-Garden Support: </strong>Create and manage multiple gardens with role-based collaboration features for shared gardening projects.<br><br><strong>Cross-Platform Access:</strong> Use the web application on any device or install the native Android app for mobile access with offline capabilities.<br><br><strong>Smart Dashboard:</strong> Get an overview of active plantings, upcoming harvests, and sprouting schedules in one centralized view.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://n7kjl.net/media/posts/45//gallery/Screenshot-from-2025-07-15-21-25-16.png\" data-size=\"1128x825\"><img loading=\"lazy\" src=\"https://n7kjl.net/media/posts/45//gallery/Screenshot-from-2025-07-15-21-25-16-thumbnail.webp\" alt=\"\" width=\"768\" height=\"562\"></a></figure>\n</div></div>\n<h3>Technical Architecture</h3>\n<p>GardenIO is built with modern web technologies:</p>\n<ul>\n<li>Frontend: React with TypeScript, Tailwind CSS, and shadcn/ui components</li>\n<li>Backend: Node.js with Express and PostgreSQL database</li>\n<li>Mobile: Capacitor for cross-platform mobile deployment</li>\n<li>Deployment: Docker containerization with GitHub Actions CI/CD</li>\n</ul>\n<p>The application supports both self-hosted deployments and cloud instances.</p>\n<h3>Getting Started</h3>\n<p>GardenIO is open source and available on GitHub. You can deploy your own instance using Docker Compose and download/install the Android app from GitHub releases.</p>\n<h3>Why I Built This</h3>\n<p><br>Mostly just to play around with the idea. Where possible I prefer to self-host applications and I wasn't finding existing options that met my needs. </p>\n<h3>Open Source</h3>\n<p><br>GardenIO is released under the MIT license and welcomes contributions from the gardening and developer communities. Whether you're interested in adding features, reporting bugs, or improving documentation, feel free.<br><br>Visit the <a href=\"https://github.com/klarge/GardenIO\">Github Repo</a> to get started, download the latest release, or contribute to the project.</p>",
+            "author": {
+                "name": "Kristopher Large"
+            },
+            "tags": [
+                   "web"
+            ],
+            "date_published": "2025-07-15T21:27:58-07:00",
+            "date_modified": "2025-07-15T21:28:22-07:00"
+        },
+        {
             "id": "https://n7kjl.net/2025-rav4-ham-radio-install/",
             "url": "https://n7kjl.net/2025-rav4-ham-radio-install/",
             "title": "2025 RAV4 Ham Radio Install",

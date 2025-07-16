@@ -3,12 +3,58 @@
     <title>N7KJL</title>
     <link href="https://n7kjl.net/feed.xml" rel="self" />
     <link href="https://n7kjl.net" />
-    <updated>2025-02-21T19:18:21-08:00</updated>
+    <updated>2025-07-15T21:28:22-07:00</updated>
     <author>
         <name>Kristopher Large</name>
     </author>
     <id>https://n7kjl.net</id>
 
+    <entry>
+        <title>GardenIO</title>
+        <author>
+            <name>Kristopher Large</name>
+        </author>
+        <link href="https://n7kjl.net/gardenio/"/>
+        <id>https://n7kjl.net/gardenio/</id>
+            <category term="web"/>
+
+        <updated>2025-07-15T21:27:58-07:00</updated>
+            <summary>
+                <![CDATA[
+                    GardenIO: A Casual Garden Management Platform Announcing the release of GardenIO, a partially thought through web and mobile application designed to help gardeners track their&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3>GardenIO: A Casual Garden Management Platform</h3>
+<p>Announcing the release of GardenIO, a partially thought through web and mobile application designed to help gardeners track their plants, manage plantings, and optimize their garden planning. It's not feature complete or even fully validated...but feel free to play with it.</p>
+<h3>Key Features</h3>
+<p><strong>Plant Library Management: </strong>Build and maintain a comprehensive database of plant varieties with detailed growing information, images, and seasonal planting guides.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://n7kjl.net/media/posts/45//gallery/Screenshot-from-2025-07-15-21-25-52.png" data-size="1123x796"><img loading="lazy" src="https://n7kjl.net/media/posts/45//gallery/Screenshot-from-2025-07-15-21-25-52-thumbnail.webp" alt="" width="768" height="544"></a></figure>
+</div></div>
+<p><strong>Planting Tracking: </strong>Record and monitor individual plantings with location-based organization, growth stage tracking, and harvest recording.<br><br><strong>Multi-Garden Support: </strong>Create and manage multiple gardens with role-based collaboration features for shared gardening projects.<br><br><strong>Cross-Platform Access:</strong> Use the web application on any device or install the native Android app for mobile access with offline capabilities.<br><br><strong>Smart Dashboard:</strong> Get an overview of active plantings, upcoming harvests, and sprouting schedules in one centralized view.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://n7kjl.net/media/posts/45//gallery/Screenshot-from-2025-07-15-21-25-16.png" data-size="1128x825"><img loading="lazy" src="https://n7kjl.net/media/posts/45//gallery/Screenshot-from-2025-07-15-21-25-16-thumbnail.webp" alt="" width="768" height="562"></a></figure>
+</div></div>
+<h3>Technical Architecture</h3>
+<p>GardenIO is built with modern web technologies:</p>
+<ul>
+<li>Frontend: React with TypeScript, Tailwind CSS, and shadcn/ui components</li>
+<li>Backend: Node.js with Express and PostgreSQL database</li>
+<li>Mobile: Capacitor for cross-platform mobile deployment</li>
+<li>Deployment: Docker containerization with GitHub Actions CI/CD</li>
+</ul>
+<p>The application supports both self-hosted deployments and cloud instances.</p>
+<h3>Getting Started</h3>
+<p>GardenIO is open source and available on GitHub. You can deploy your own instance using Docker Compose and download/install the Android app from GitHub releases.</p>
+<h3>Why I Built This</h3>
+<p><br>Mostly just to play around with the idea. Where possible I prefer to self-host applications and I wasn't finding existing options that met my needs. </p>
+<h3>Open Source</h3>
+<p><br>GardenIO is released under the MIT license and welcomes contributions from the gardening and developer communities. Whether you're interested in adding features, reporting bugs, or improving documentation, feel free.<br><br>Visit the <a href="https://github.com/klarge/GardenIO">Github Repo</a> to get started, download the latest release, or contribute to the project.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>2025 RAV4 Ham Radio Install</title>
         <author>
